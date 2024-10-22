@@ -6,6 +6,7 @@ function contarLinks() {
 
 contarLinks()
 
+
 function veerLinks() {
 
     const enlaces = document.getElementById("enlace3")
