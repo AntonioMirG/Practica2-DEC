@@ -1,12 +1,12 @@
-function countLikns() {
+function contarLinks() {
 
     const enlaces = document.getElementsByTagName("a").length;
     console.log(enlaces);
 }
 
-countLikns()
+contarLinks()
 
-function seeLinks() {
+function veerLinks() {
 
     const enlaces = document.getElementById("enlace3")
 
@@ -15,10 +15,10 @@ function seeLinks() {
     console.log(enlace);
 }
 
-seeLinks()
+veerLinks()
 
 
-function countLikns2() {
+function contarLiknsparrafo1() {
 
     const enlaces = document.getElementById("parrafo1")
 
@@ -28,6 +28,6 @@ function countLikns2() {
 
 }
 
-countLikns2()
+contarLiknsparrafo1()
 
 
